@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faradars 3Layer", "Faradars 3Layer.csproj", "{B498E17E-98FF-493F-86E7-BAA9BFD0EB94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "..\BL\BL.csproj", "{9C563838-80C8-4DE0-80E0-4D03E4785034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA", "..\DA\DA.csproj", "{9CEC52B5-F096-4BC5-BE49-126E0BD60D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B498E17E-98FF-493F-86E7-BAA9BFD0EB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B498E17E-98FF-493F-86E7-BAA9BFD0EB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B498E17E-98FF-493F-86E7-BAA9BFD0EB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B498E17E-98FF-493F-86E7-BAA9BFD0EB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C563838-80C8-4DE0-80E0-4D03E4785034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C563838-80C8-4DE0-80E0-4D03E4785034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C563838-80C8-4DE0-80E0-4D03E4785034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C563838-80C8-4DE0-80E0-4D03E4785034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CEC52B5-F096-4BC5-BE49-126E0BD60D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEC52B5-F096-4BC5-BE49-126E0BD60D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEC52B5-F096-4BC5-BE49-126E0BD60D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEC52B5-F096-4BC5-BE49-126E0BD60D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
